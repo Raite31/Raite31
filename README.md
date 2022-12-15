@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <!-- 统计表 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raite31&theme=cobalt )](https://github.com/anuraghazra/github-readme-stats)
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Raite31" />
 
 <!-- 图标集合 -->
 <img alt="Python" src="https://img.shields.io/badge/-Python-FADC6A?style=flat-square&logo=python" />
