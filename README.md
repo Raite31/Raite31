@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Key
 
-
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -10,16 +9,22 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-
 <!-- 统计表 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raite31&theme=cobalt )](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raite31&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 代码统计 -->
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
 
 <div align="left"> 
   <img src="https://visitor-badge.glitch.me/badge?page_id=Raite31" />
 </div>
 
 <!-- Markdown -->
+
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
 <!-- HTML -->
 <img alt="Python" src="https://img.shields.io/badge/-Python-FADC6A?style=flat-square&logo=python" />
 <img alt="C" src="https://img.shields.io/badge/-C/C++-DAE8FC?style=flat-square&logo=c" />
