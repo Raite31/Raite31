@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <!-- 统计表 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raite31&theme=cobalt )](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
+<div align="left"> 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Raite31" />
+</div>
