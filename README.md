@@ -14,8 +14,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raite31&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 代码统计 -->
-START_SECTION:waka
-END_SECTION:waka
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
 
 <div align="right"> 
   <img src="https://visitor-badge.glitch.me/badge?page_id=Raite31" />
