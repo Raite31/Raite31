@@ -17,7 +17,7 @@
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
 
-<div align="left"> 
+<div align="right"> 
   <img src="https://visitor-badge.glitch.me/badge?page_id=Raite31" />
 </div>
 
