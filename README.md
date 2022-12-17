@@ -30,7 +30,7 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <!-- 语言统计 -->
-                            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raite31)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raite31)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
