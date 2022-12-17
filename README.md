@@ -17,9 +17,7 @@
 <!-- END_SECTION:waka -->
 
 <!-- 语言统计 -->
-<div align="right"> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raite31)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 <!-- 浏览记录 -->
 <div align="right"> 
@@ -27,7 +25,6 @@
 </div>
 
 <!-- Markdown -->
-
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 <!-- HTML -->
