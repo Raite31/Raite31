@@ -18,8 +18,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raite31&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 代码统计 -->
-<!-- START_SECTION:Waka Readme -->
-<!-- END_SECTION:Waka Readme -->
+<!-- START_SECTION:wakatime -->
+<!-- END_SECTION:wakatime -->
 
 <!-- 语言统计 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raite31)](https://github.com/anuraghazra/github-readme-stats)
