@@ -21,8 +21,9 @@ Let's become stronger❗
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-# github概览数据
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raite31&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+# github代码统计
+<span>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raite31&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)</span><span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raite31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</span>
+
 
 # IDE代码统计
 <!--START_SECTION:waka-->
@@ -36,11 +37,10 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-# 语言数据
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raite31)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Github心跳
-![](https://activity-graph.herokuapp.com/graph?username=你的Github用户名&theme=github)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raite31)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
