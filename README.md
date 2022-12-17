@@ -22,7 +22,7 @@ Let's become stronger❗
 - ⚡ Fun fact: ... -->
 
 # github代码统计
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raite31&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raite31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</span>
+<span>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raite31&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raite31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</span>
 
 
 # IDE代码统计
