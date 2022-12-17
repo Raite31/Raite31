@@ -10,7 +10,6 @@
 - ⚡ Fun fact: ... -->
 
 <!-- 统计表 -->
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raite31&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 代码统计 -->
@@ -19,7 +18,7 @@
 
 <!-- 语言统计 -->
 <div align="right"> 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raite31)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raite31)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!-- 浏览记录 -->
