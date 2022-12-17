@@ -4,7 +4,14 @@
 </div>
 
 ### Hi there 👋 I'm Key
+Welcome to my StudyStation.
 
+I'm a Coder, in this station i will record my learning process, and i will share my study vlog on 
+https://space.bilibili.com/494473487?spm_id_from=333.999.0.0
+
+Let's become stronger❗
+
+🔭 I’m currently working on Vue and JS
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,10 +21,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<!-- 统计表 -->
+# github概览数据
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raite31&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- 代码统计 -->
+# IDE代码统计
 <!--START_SECTION:waka-->
 
 ```text
@@ -29,8 +36,11 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<!-- 语言统计 -->
+# 语言数据
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raite31)](https://github.com/anuraghazra/github-readme-stats)
+
+# Github心跳
+![](https://activity-graph.herokuapp.com/graph?username=你的Github用户名&theme=github)
 
 
 
