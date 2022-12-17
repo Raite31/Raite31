@@ -15,14 +15,10 @@
 
 <!-- 代码统计 -->
 <!-- START_SECTION:waka -->
-​```text
-C++          11 hrs 27 mins  ████████████░░░░░░░░░░░░░   48.61 % 
-C            2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-CMake        2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Python       1 hr 53 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-JavaScript   1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-​```
 <!-- END_SECTION:waka -->
+
+<!-- 语言统计 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raite31)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="right"> 
   <img src="https://visitor-badge.glitch.me/badge?page_id=Raite31" />
