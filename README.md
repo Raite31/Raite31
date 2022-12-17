@@ -32,6 +32,12 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 <!-- 语言统计 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raite31)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Raite31&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Raite31&repo=convoychat" />
+</a>
 
 
 <!-- 图标 -->
