@@ -15,7 +15,7 @@
 - ⚡ Fun fact: ... -->
 
 <!-- 统计表 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raite31&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raite31&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 代码统计 -->
 <!--START_SECTION:waka-->
