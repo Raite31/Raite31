@@ -18,8 +18,11 @@
 <!-- END_SECTION:waka -->
 
 <!-- 语言统计 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raite31)](https://github.com/anuraghazra/github-readme-stats)
+<div align="right"> 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raite31)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
+<!-- 浏览记录 -->
 <div align="right"> 
   <img src="https://visitor-badge.glitch.me/badge?page_id=Raite31" />
 </div>
