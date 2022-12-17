@@ -1,3 +1,8 @@
+<!-- 浏览记录 -->
+<div align="right"> 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Raite31" />
+</div>
+
 ### Hi there 👋 I'm Key
 
 <!-- - 🔭 I’m currently working on ...
@@ -19,10 +24,7 @@
 <!-- 语言统计 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raite31)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- 浏览记录 -->
-<div align="right"> 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Raite31" />
-</div>
+
 
 <!-- 图标 -->
 <!-- ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) -->
