@@ -3,7 +3,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Raite31" />
 </div>
 
-### Hi there 👋 I'm Key
+### Hi there 👋 I'm Raite31
 Welcome to my StudyStation.
 
 I'm a Coder, in this station i will record my learning process, and i will share my study vlog on 
