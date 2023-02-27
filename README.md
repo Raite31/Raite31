@@ -6,8 +6,12 @@
 ### Hi guy's 👋 there is Raite31
 Welcome to my StudyStation.
 
-I'm a Coder, in this station i will record my learning process, and i will share my study vlog on 
-https://space.bilibili.com/494473487?spm_id_from=333.999.0.0
+I'm a Coder, in this station i will record my learning process, all platforms with the same name ：
+
+bilibili：https://space.bilibili.com/494473487?spm_id_from=333.999.0.0
+
+gitee：https://gitee.com/Key31
+
 
 Let's become stronger❗
 
